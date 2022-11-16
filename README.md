@@ -1,7 +1,7 @@
 # minitalk
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # partie obligatoire :
- réaliser un programme de communication sous la forme d’un client et d’un serveur.
+ réaliser un programme de communication sous la forme d’un client et d’un serveur./n
 • Le serveur doit être lancé en premier et doit, après le lancement, afficher son PID.
 • Le client prend deux paramètres :
   ◦ Le PID du serveur.
