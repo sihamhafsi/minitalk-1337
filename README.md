@@ -13,5 +13,5 @@
 • La communication entre vos programmes doit se faire uniquement à l’aide de signaux UNIX.<br />
 • utiliser que les deux signaux suivants : SIGUSR1 et SIGUSR2. <br />
 # Partie bonus
-• Le serveur confirme la réception de chaque message en envoyant un signal au client.
+• Le serveur confirme la réception de chaque message en envoyant un signal au client.<br />
 • Le support des caractères Unicode !
